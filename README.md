@@ -24,6 +24,8 @@ In this thesis, we propose a method, named RNA3DCNN, based on 3D convolutional n
 our model could predict the type of nucleotide for new 33 RNAs (released recently in NDB[1]) with 52% accuracy, which means much better than random accuracy (=25%).
 
 ##DATASET
+
+
 Data is available at this link:
 https://drive.google.com/drive/folders/193_WIvdsyTW-eC6-GLs6sOmGBO6RoxXO?usp=share_link
 
