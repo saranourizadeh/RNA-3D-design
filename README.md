@@ -35,4 +35,4 @@ P.S.: recently I checked the website for the dataset and it showed me: "You don'
 
 ## Code
 
-for using the code you should run it based on the number of file's names to prepare the dataset, clean it, and then cluster RNAs to build a 3D image based on their coordinates!
+for using the code you should run it based on the number of file's names to prepare the dataset, clean it, and then cluster RNAs to build a 3D image based on their coordinates! and then run the model! Also, you can use the test.ipynb to test the model:) do not hesitate to send me an email if you have any questions about the whole project:)
