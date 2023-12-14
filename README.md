@@ -9,7 +9,7 @@ This repository contains the code and documentation related to my master's thesi
 - **University**: Amirkabir University of technology(Tehran Polytechnique)
 - **Year**: 2021
 
-## abstract
+## Abstract
 
 RNA is one of the three major biological macromolecules that are essential for all known forms of life. The folding of RNAs into specific tertiary structures is necessary for performing specific functions and their applications in drug design.
 
@@ -23,7 +23,7 @@ In this thesis, we propose a method, named RNA3DCNN, based on 3D convolutional n
 
 our model could predict the type of nucleotide for new 33 RNAs (released recently in NDB[1]) with 52% accuracy, which means much better than random accuracy (=25%).
 
-##DATASET
+## DATASET
 
 
 Data is available at this link:
