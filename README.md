@@ -32,3 +32,7 @@ https://drive.google.com/drive/folders/193_WIvdsyTW-eC6-GLs6sOmGBO6RoxXO?usp=sha
 it's recommended to use the more updated version  of the dataset that is available on: http://rna.bgsu.edu/nrlist
 
 P.S.: recently I checked the website for the dataset and it showed me: "You don't have permission to access /nrlist/ on this server."
+
+## Code
+
+for using the code you should run it based on the number of file's names to prepare the dataset, clean it, and then cluster RNAs to build a 3D image based on their coordinates!
